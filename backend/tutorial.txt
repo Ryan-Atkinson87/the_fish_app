@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=c-QsfbznSXI
 21/06/24 - 1:31:11 - connected front end login/register page to backend
 
 05/07/24 - 1:39:25 - creating homepage
+
+06/07/24 - 1:58:57 - struggling to get connected to choreo db server
