@@ -8,3 +8,7 @@ https://www.youtube.com/watch?v=c-QsfbznSXI
 14/06/24 - 1:13:05 - setting up front end pages
 
 20/06/24 - 1:15:53 - setting up navigation pages
+
+21/06/24 - 1:31:11 - connected front end login/register page to backend
+
+05/07/24 - 1:39:25 - creating homepage
